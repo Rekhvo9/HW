@@ -1,0 +1,34 @@
+h1{
+    color: red;
+}
+img{
+    width: 400; height: 300;
+    border: 4px gray;
+    border-radius: 23px;
+}
+a{
+    text-decoration:none;
+    color:navy;
+    background-color: olive;
+    padding: 5px 10px;
+    
+}
+a:hover {
+    color: green;
+    border-color: hotpink;
+    background-color: khaki;
+}
+p {
+    color: yellowgreen;
+    font-size: 18px;
+}
+ul,
+ol{
+    padding-left: 20px;
+}
+table td,
+table th{
+    border: 1px black;
+    padding:5px 10px;
+}
+  
