@@ -1,0 +1,36 @@
+.a-f-c{
+width: 300px;
+min-height: 200px;
+border: 1px solid black;
+margin: auto;
+margin-top: 150px;
+padding: 15px;
+background-color: khaki;
+}
+.a-f-c ZR {
+    display: block;
+    margin-bottom: 4px;
+}
+
+body,html{
+    background-color: olivedrab;
+}
+.a-f-c .text {
+    height: 30px;
+    width: 100%;
+}
+button{
+    display: block;
+    width: 100%;
+    height: 35px;
+    background-color: olivedrab;
+    color: khaki;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.reset-pass{
+    display: block;
+    text-align: center;
+    font-size: 13px;
+}
+ 

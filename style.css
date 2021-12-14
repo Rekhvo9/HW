@@ -1,22 +1,28 @@
-html{
-    margin:0;
-}
-
-
-body,html{
-    background-color: olivedrab;
-}
+body{
+    background-image: url(./image/snake.jpg);
+    margin: auto;
+    }
 h1{
-    color: white;
+    color: khaki;
 }
-a {
-    
-    margin:none;
-
-    
+li{
+    color: khaki;
 }
-
+table td,
+table th{
+    border: 1px solid khaki;
+    color: lightgoldenrodyellow;
+}
 img{
     width: 300px;
     height: 300px;
+    border: 5px solid darkslategrey;
+    border-radius: 25px;
+}
+a{
+    text-decoration: none;
+    color: olivedrab;
+    background-color: khaki;
+    padding: 5px;
+    border-radius: 8px;
 }
