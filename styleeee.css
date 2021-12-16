@@ -12,9 +12,6 @@ background-color: khaki;
     margin-bottom: 4px;
 }
 
-body,html{
-    background-color: olivedrab;
-}
 .a-f-c .text {
     height: 30px;
     width: 100%;
@@ -33,4 +30,14 @@ button{
     text-align: center;
     font-size: 13px;
 }
- 
+ header{
+     height: 65px;
+     background-color:khaki;
+     align-items: center;
+     
+ }
+ body,html{
+     background-color: olivedrab;
+     margin: 0px;
+ }
+
