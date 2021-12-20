@@ -1,0 +1,46 @@
+body{
+    background-color:whitesmoke;
+    margin: 0px;
+    padding: 0px;
+    }
+h1{
+    color: khaki;
+}
+a.text{
+    text-decoration: none;
+    color: olivedrab;
+    background-color: khaki;
+    padding: 5px;
+    border-radius: 8px;
+}
+header{
+    height: 65px;
+    background-color:olivedrab;
+    align-items:center
+}
+.container{
+    width: 1024px;
+    margin: auto;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+a{
+    color: khaki;
+    text-decoration: none;
+    padding: 0 10px;
+}
+a:hover{
+    text-decoration: underline;
+}
+.d-flex{
+    display: flex;
+}
+div.container{
+    align-items: center;
+}
+nav{
+    width: calc(100% - 40px);
+    justify-content: space-between;
+}

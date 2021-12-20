@@ -24,7 +24,7 @@ a.text{
 header{
     height: 65px;
     background-color:olivedrab;
-    align-items:center
+    align-items:center;
 }
 .container{
     width: 1024px;

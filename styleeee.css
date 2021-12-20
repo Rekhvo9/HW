@@ -33,8 +33,7 @@ button{
  header{
      height: 65px;
      background-color:khaki;
-     align-items: center;
-     
+     align-items: center;   
  }
  body,html{
      background-color: olivedrab;

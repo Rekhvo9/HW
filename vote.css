@@ -1,0 +1,58 @@
+body{
+    background-color: #02203c;
+    margin: 0px;
+}
+h1{
+    color: yellowgreen;
+}
+.d-flex {
+display: flex;
+}
+.d-inline-flex{
+    display: inline-flex;
+}
+.plus-btn{
+position: absolute;
+width: 25px;
+height: 25px;
+align-items: center;
+gap: 8px;
+background-color: peru;
+padding: 5px 5px;
+color: black;
+border-radius: 8px;
+height: 18px;
+bottom: 10px;
+right: 10px;
+}
+.heart{
+ width: 25px;
+ height: 25px;
+ position: absolute;
+ top: 15px;
+ right: -40px;
+}
+.container{
+    width: 1000px;
+    margin:auto
+}
+.card .product-img{
+width: 200;
+height: 200px;
+border-radius: 25px;
+display: block;
+}
+.img-container{
+    position: relative;
+}
+.card{
+    width: 25%;
+}
+.card h1{
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+.card p{
+    margin: 0px;
+    color: chocolate;
+}
